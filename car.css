@@ -1,0 +1,19 @@
+body {
+    background-size:cover;
+    background-position: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px rgb(195, 195, 195);
+    border-radius: 10px;
+    border-style: dashed;
+}
+
+#btn1 {
+    margin-left: 90%;
+}
+
+#detected_objects {
+    margin-bottom: 30px;
+}
